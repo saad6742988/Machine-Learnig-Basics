@@ -7,5 +7,5 @@ In Algebra, you have learned about **Linear Equation** some where. That is
 
 This equation uses the slope that is 'm' and interception point that is 'b'. You can see detailed view in image below:
 
-[Linear Equation](linear_equation.png)
+![Linear Equation](linear_equation.png)
 
