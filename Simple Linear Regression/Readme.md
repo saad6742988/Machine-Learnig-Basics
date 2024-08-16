@@ -1,6 +1,9 @@
 # Simple Linear Regreesion
+
 Simple Linear Regreesion is a type of **Linear Regression** with a single explanatory variable.
+
 In other word, it describes the relationship between **one dependant** and **one independant** varible using a straight line.
+
 You can also say it aims to find a Linear Relationship to describe the correlation between independant and posibly dependat varible.
 
 In our case, **Area** will be independant and **Price** will be dependant on area.
