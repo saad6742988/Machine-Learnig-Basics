@@ -1,4 +1,4 @@
-# Simple Linear Regression (Single Variable)
+# Linear Regression (Multiple Variable)
 
 Linear Regreesion with multiple variable is a type of **Linear Regression** with a **two or more independent variables** and **one variable that is dependent** on our independent variables.
 
