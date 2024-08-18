@@ -1,4 +1,4 @@
-# Simple Linear Regreesion
+# Simple Linear Regression (Single Variable)
 
 Simple Linear Regreesion is a type of **Linear Regression** with a single explanatory variable.
 

@@ -9,4 +9,4 @@ Machine learning is a vast feild that encapsulates Deep learning through data/in
 
 Different ML Algorithms and their implementation:
 
-1. [Simple Linear Regression](https://github.com/saad6742988/Machine-Learnig-Basics/tree/636e300aebbae7e47a3703c85e7726b1d28a6b19/Simple%20Linear%20Regression)
+1. [Simple Linear Regression (Single Variable)](https://github.com/saad6742988/Machine-Learnig-Basics/tree/636e300aebbae7e47a3703c85e7726b1d28a6b19/Simple%20Linear%20Regression)
